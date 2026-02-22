@@ -99,10 +99,6 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 Now, visit:  
 👉 `http://localhost:8080` in your browser
 
----<img width="1901" height="911" alt="Job_Home" src="https://github<img width="<img width="1902" height="892" alt="Screenshot 2026-02-22 102434" src="https://github.com/user-attachments/assets/6eebd629-14a1-4b8d-bcfa-de8030ad0c30" />
-1902" height="892" alt="Otp_verification" src="https://github.com/user-attachments/assets/83ad6059-f2bd-476e-917d-727ab7086279" />
-.com/user-attachments/assets/271ecd19-61be-495b-9a92-87f2a035c220" />
-
 
 ## 🗂️ Project Structure
 
@@ -143,7 +139,8 @@ job-portal/
 <img width="1897" height="908" alt="image" src="https://github.com/user-attachments/assets/05f10666-a16e-47fc-ad4f-283f3e8f226c" />
 
 📷 /screenshots/jobseeker-dashboard.png
-(https://github.com/Jafars07/Job-Portal/blob/cf0e71a6f2a91e0bef9f03d5fa96bbfc53c4d2b0/JBob_Seeker.png)
+
+if[image alt](https://github.com/Jafars07/Job-Portal/blob/cf0e71a6f2a91e0bef9f03d5fa96bbfc53c4d2b0/JBob_Seeker.png)
 
 📷 /screenshots/recruiter-dashboard.png
 <img width="1901" height="912" alt="image" src="https://github.com/user-attachments/assets/17d95af1-fcb9-490c-9f21-cf3fd8c3e741" />
