@@ -140,7 +140,7 @@ job-portal/
 <img width="1897" height="908" alt="image" src="https://github.com/user-attachments/assets/05f10666-a16e-47fc-ad4f-283f3e8f226c" />
 
 📷 /screenshots/jobseeker-dashboard.png
-<img width="1901" height="908" alt="image" src="https://github.com/user-attachments/assets/305092a4-f9ad-412e-86bd-863aea450239" />
+(https://github.com/Jafars07/Job-Portal/blob/cf0e71a6f2a91e0bef9f03d5fa96bbfc53c4d2b0/JBob_Seeker.png)
 
 📷 /screenshots/recruiter-dashboard.png
 <img width="1901" height="912" alt="image" src="https://github.com/user-attachments/assets/17d95af1-fcb9-490c-9f21-cf3fd8c3e741" />
