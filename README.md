@@ -128,22 +128,13 @@ job-portal/
 
 ```
 📷 /screenshots/homepage.png
-<img width="1894" height="961" alt="image" src="https://github.com/user-attachments/assets/4710ad49-a682-4257-a5a8-0dc00499f8a7" />
-
-
-📷 /screenshots/Login.png
-<img width="1900" height="902" alt="image" src="https://github.com/user-attachments/assets/9d592b10-8b1e-42e2-a77d-a5319dfe40c0" />
-
-
-📷 /screenshots/register.png
-<img width="1897" height="908" alt="image" src="https://github.com/user-attachments/assets/05f10666-a16e-47fc-ad4f-283f3e8f226c" />
+![Homepage](screenshots/Job_Home.png)
 
 📷 /screenshots/jobseeker-dashboard.png
+![JOB_seeker](screenshots/JBob_Seeker.png)
 
-![image](https://github.com/Jafars07/Job-Portal/blob/cf0e71a6f2a91e0bef9f03d5fa96bbfc53c4d2b0/JBob_Seeker.png)
-
-📷 /screenshots/recruiter-dashboard.png
-<img width="1901" height="912" alt="image" src="https://github.com/user-attachments/assets/17d95af1-fcb9-490c-9f21-cf3fd8c3e741" />
+📷 /screenshots/Mail_OTP_Verification.png
+![Homepage](screenshots/Otp_verification.png)
 
 ## 👤 Author
 
