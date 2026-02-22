@@ -99,7 +99,10 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 Now, visit:  
 👉 `http://localhost:8080` in your browser
 
----
+---<img width="1901" height="911" alt="Job_Home" src="https://github<img width="<img width="1902" height="892" alt="Screenshot 2026-02-22 102434" src="https://github.com/user-attachments/assets/6eebd629-14a1-4b8d-bcfa-de8030ad0c30" />
+1902" height="892" alt="Otp_verification" src="https://github.com/user-attachments/assets/83ad6059-f2bd-476e-917d-727ab7086279" />
+.com/user-attachments/assets/271ecd19-61be-495b-9a92-87f2a035c220" />
+
 
 ## 🗂️ Project Structure
 
