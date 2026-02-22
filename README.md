@@ -123,18 +123,17 @@ job-portal/
 ```
 
 ---
-
 ## 🖼️ Screenshots
 
-```
-📷 /screenshots/homepage.png
-![Homepage](screenshots/Job_Home.png)
+### Homepage
+![Job Portal Homepage](screenshots/Job_Home.png)
 
-📷 /screenshots/jobseeker-dashboard.png
-![JOB_seeker](screenshots/JBob_Seeker.png)
+### Job Seeker Dashboard  
+![Job Seeker Dashboard](screenshots/JBob_Seeker.png)
 
-📷 /screenshots/Mail_OTP_Verification.png
-![Homepage](screenshots/Otp_verification.png)
+### OTP Verification
+![OTP Verification](screenshots/Otp_verification.png)
+
 
 ## 👤 Author
 
